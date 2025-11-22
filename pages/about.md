@@ -14,14 +14,8 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a collection of the photos of Robert Ritter, a crewman of a B29 who is believed to have been attached to the 509th Composite Group during the Second World War. He loved photograhpy and took many photographs of his time in the United States Army Air Force. These provide a glimpse into the life of those who were part of this bomber force, a piece of history which has remarkably few photos and similarly low coverage. Many histories instead have focused on the commanders and men in charge of the operation. This collection currently contains some of his photos, but will expand to include other pieces he kept including a copy of a diner menu on the back of which he wrote a poem that the diner kept and used. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## Rights and Use
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+The rights to this collection have fallen to Alexander Ranc, and the materials in this collection may be used for Academic and Research purposes without permission. Any other use must be approved, and likely will. If you have questions, please reach out to me at amranc@iu.edu. 
